@@ -23,6 +23,7 @@
 	4. LABEL Node with zones names
 	5. Kubernetes Definition files
 	6. Deployment, Service, Secret, Volume
+![image](https://github.com/Anub11/Kubernetes-project1/assets/68216634/dcdae315-e586-4d4f-a354-f8ed934f3693)
 
 
 
